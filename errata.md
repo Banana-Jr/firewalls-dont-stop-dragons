@@ -5,6 +5,13 @@
 
 The book is chock full of web links and web links will change all the time. I will try to keep an updated set of links in [this web page](https://firewallsdontstopdragons.com/book-links-v4/). If you find any links in the book or these documents that are wrong, please let me know!
 
+## Updated Information
+
+### Chapter 7, page 241: Panopticlick --> Cover Your Tracks
+
+EFF's wonderful Panopticlick tool has been upgraded and renamed: [Cover Your Tracks](https://coveryourtracks.eff.org/). The Panopticlick link should 
+redirect you to the new tool.
+
 ## Errata
 
 ### Tip 4-12: Perform a Security Check in LastPass
